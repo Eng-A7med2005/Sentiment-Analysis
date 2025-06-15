@@ -1,8 +1,3 @@
-بالتأكيد. ملف `README.md` هو واجهة المشروع على GitHub، ويجب أن يكون واضحًا ومنظمًا. لقد أعددت لك قالبًا احترافيًا يمكنك استخدامه مباشرةً أو التعديل عليه. الملف مكتوب بصيغة Markdown.
-
----
-
-
 # Sentiment Analysis of Social Media Data (Twitter & Reddit)
 
 This project is an end-to-end Natural Language Processing (NLP) task focused on sentiment analysis. The goal is to build and evaluate machine learning models capable of classifying text from Twitter and Reddit into three sentiment categories: **Positive**, **Negative**, and **Neutral**.
