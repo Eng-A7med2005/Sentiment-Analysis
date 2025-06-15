@@ -56,11 +56,8 @@ This project follows a standard machine learning pipeline:
 ## 📂 Project Structure
 
 ```
-.
-├── DATA/
-│   └── Uneeq_sentiment/
-│       ├── Reddit_Data.csv
-│       └── Twitter_Data.csv
+│──Reddit_Data.csv
+│──Twitter_Data.csv
 ├── Uneeq_Sentiment.ipynb      # The main Jupyter Notebook with all the code
 ├── best_sentiment_model.pkl   # Saved Logistic Regression model
 ├── tfidf_vectorizer.pkl       # Saved TF-IDF vectorizer
@@ -125,4 +122,3 @@ The models were trained on a combined dataset of ~200,000 text samples and evalu
 *   **API Deployment:** Wrap the prediction function in a simple web API using Flask or FastAPI to make it accessible as a service.
 ```
 
----
